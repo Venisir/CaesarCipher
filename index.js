@@ -9,6 +9,8 @@ var api = new telegram({
 api.getMe(function(err, data){
     console.log(err);
     console.log(data);
+    console.log(err);
+    console.log(data);
 });
 
 
